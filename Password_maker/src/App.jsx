@@ -51,7 +51,7 @@ function App() {
           onChange={() => {
               setCharallowed((prev) => !prev);
           }}/>
-                  <span>Character</span>
+                  <span>Character</span> 
               </div>
             </div>
         </div>
