@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* @theme{
+    --color-primary:red;
+    --color-avocado-600: oklch(0.53 0.12 118.34);
+
+    --breakpoint-3xl: 800px;
+    
+}
+@media (min-width: 800px) {
+  .responsive-heading {
+    font-size: 4rem;
+    color: var(--color-primary);
+  }
+}   */
